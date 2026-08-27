@@ -66,7 +66,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Phone',
-      content: '+91 98765 43210',
+      content: '+91 90431 86593',
       color: 'bg-green-500',
     },
   ];
